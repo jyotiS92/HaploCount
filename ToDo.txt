@@ -1,0 +1,2 @@
+1) Work-around for stop codon-muscle error
+2) Statistical test to define strand bias between epitopes from forward and reverse reads.
