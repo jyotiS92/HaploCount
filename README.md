@@ -48,4 +48,4 @@ A directory with the tag name will be created. The directory should contain two 
 --------------------
 Written by: Jyoti Sutar <jyoti.sutar92@gmail.com>  
 Dept. of Biochemistry and Virology  
-National Institute for Rsearch in Reproductive Health (ICMR), Mumbai, India
+National Institute for Research in Reproductive Health (ICMR), Mumbai, India
